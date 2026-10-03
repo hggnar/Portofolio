@@ -43,10 +43,4 @@ Tidak perlu instalasi tambahan. Koneksi internet hanya dibutuhkan untuk memuat f
 ## Rencana Pengembangan
 
 - [ ] Menambahkan bagian Projects
-- [ ] Memasang website secara online (misalnya lewat GitHub Pages)
-- [ ] Menambahkan versi bahasa Inggris pada bagian About
-
-## Kontak
-
-- LinkedIn: [Rangga Ho](https://www.linkedin.com/in/rangga-ho-842485356/)
-- GitHub: [hggnar](https://github.com/hggnar)
+- [ ] Memasang website secara online
